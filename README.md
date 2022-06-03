@@ -1,7 +1,9 @@
-# Julio Cesar Coelho 👋
+## Julio Cesar Coelho 👋
 
 - Sou professor de Matemática
 - Sou professor também de  Pensamento Computacional
+- SOU PROFESSOR DO cOLEGIO jk
+- - 👯 I’m looking to collaborate on ...
 <!--
 **Procoelho10/Procoelho10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
