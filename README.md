@@ -1,9 +1,21 @@
+
+# Sou Professor
 ## Julio Cesar Coelho 👋
 
-- Sou professor de Matemática
-- Sou professor também de  Pensamento Computacional
-- SOU PROFESSOR DO cOLEGIO jk
-- - 👯 I’m looking to collaborate on ...
+- *Sou professor de Matemática*
+- **Sou professor também de  Pensamento Computacional**
+- 👯  Sou professor do Colégio JK
+
+1. Sou so signo de :lion:
+
+![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+:grinning:
+
+![]( https://cdn.acritica.net/img/pc/920/600/dn_noticia/2020/07/1595428561.jpg.webp)
+
 <!--
 **Procoelho10/Procoelho10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
