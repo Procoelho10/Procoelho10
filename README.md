@@ -6,6 +6,7 @@
 - **Sou professor também de  Pensamento Computacional**
 - 👯  Sou professor do Colégio JK
 - email contato - julio.cesar.coelho@escola.pr.gov.br
+- Sou professor da turma 1ºB
 
 1. Sou so signo de :lion:
 
