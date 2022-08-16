@@ -12,6 +12,9 @@
 - email contato - julio.cesar.coelho@escola.pr.gov.br
 - Sou professor da turma 1ºB
 
+![image](https://user-images.githubusercontent.com/99935411/184940804-4f6b7dbf-a4c9-4470-bd92-3488a9e0a1db.png)
+![](https://s2.glbimg.com/mY7ohl5ehq4QhHYpLGHzGpSf_Uk=/0x0:1920x1280/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_cf9d035bf26b4646b105bd958f32089d/internal_photos/bs/2021/1/d/V5vubYToAk0A1rpgbgOQ/strada-ranch-154.jpg)
+
 1. Sou so signo de :lion:
 
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
