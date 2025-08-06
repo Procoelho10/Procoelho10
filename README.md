@@ -6,6 +6,8 @@
 
 **pensamneto computacial**
 
+⚓
+
 - *Sou professor de Matemática*
 - **Sou professor também de  Pensamento Computacional**
 - 👯  Sou professor do Colégio JK
