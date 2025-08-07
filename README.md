@@ -1,12 +1,12 @@
 
-# Sou Professor
+# Sou 
 ## Julio Cesar Coelho 👋
 ### 1ª A
 
 
 **pensamneto computacial**
 
-⚓
+🪗
 
 - *Sou professor de Matemática*
 - **Sou professor também de  Pensamento Computacional**
